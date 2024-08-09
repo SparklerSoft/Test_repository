@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15" version="24.7.6">
   <diagram name="Page-1" id="p19KSNvYjUqqK6xyMW1n">
-    <mxGraphModel dx="3513" dy="1511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3529" dy="1058" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -12,6 +12,11 @@
         </mxCell>
         <mxCell id="sAkDwCk9vs1DAD9siP_P-4" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Введите ваш бюджет на покупку авто с доставкой&lt;/font&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;whiteSpace=wrap;strokeColor=#666666;mainText=;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="220" y="60" width="335" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sAkDwCk9vs1DAD9siP_P-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sAkDwCk9vs1DAD9siP_P-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="960" y="600" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="sAkDwCk9vs1DAD9siP_P-5" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Введите ваш бюджет на покупку на аукционе без доставки&lt;/font&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;whiteSpace=wrap;strokeColor=#666666;mainText=;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="220" y="100" width="335" height="40" as="geometry" />
