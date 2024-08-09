@@ -1,9 +1,252 @@
-<mxfile host="app.diagrams.net" modified="2023-11-13T20:17:29.730Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15" version="22.1.0" etag="U097WHRr7ZyNu6UU1nYQ" type="github">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15" version="24.7.6">
   <diagram name="Page-1" id="p19KSNvYjUqqK6xyMW1n">
-    <mxGraphModel>
+    <mxGraphModel dx="3513" dy="1511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="sAkDwCk9vs1DAD9siP_P-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="20" width="370" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="sAkDwCk9vs1DAD9siP_P-2" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Калькулятор покупки авто&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="215" y="20" width="340" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sAkDwCk9vs1DAD9siP_P-4" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Введите ваш бюджет на покупку авто с доставкой&lt;/font&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;whiteSpace=wrap;strokeColor=#666666;mainText=;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="220" y="60" width="335" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sAkDwCk9vs1DAD9siP_P-5" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Введите ваш бюджет на покупку на аукционе без доставки&lt;/font&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;whiteSpace=wrap;strokeColor=#666666;mainText=;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="220" y="100" width="335" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sAkDwCk9vs1DAD9siP_P-6" value="Марка авто" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=17;spacingLeft=3;" vertex="1" parent="1">
+          <mxGeometry x="217.5" y="150" width="335" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sAkDwCk9vs1DAD9siP_P-7" value="Модель авто" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=17;spacingLeft=3;" vertex="1" parent="1">
+          <mxGeometry x="217.5" y="190" width="335" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sAkDwCk9vs1DAD9siP_P-8" value="Год выпуска от __ и до ___" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=17;spacingLeft=3;" vertex="1" parent="1">
+          <mxGeometry x="217.5" y="230" width="335" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sAkDwCk9vs1DAD9siP_P-9" value="Пробег от __ и до ___" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=17;spacingLeft=3;" vertex="1" parent="1">
+          <mxGeometry x="217.5" y="270" width="335" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sAkDwCk9vs1DAD9siP_P-11" value="Трансмиссия" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=17;spacingLeft=3;" vertex="1" parent="1">
+          <mxGeometry x="217.5" y="310" width="335" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sAkDwCk9vs1DAD9siP_P-12" value="Тип двигателя" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=17;spacingLeft=3;" vertex="1" parent="1">
+          <mxGeometry x="217.5" y="350" width="335" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sAkDwCk9vs1DAD9siP_P-13" value="Рассчитать" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="310" y="500" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sAkDwCk9vs1DAD9siP_P-15" value="Авто с доставкой (сумма п.1-7)" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;strokeColor=default;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-500" y="600" width="700" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="sAkDwCk9vs1DAD9siP_P-16" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;" vertex="1" parent="sAkDwCk9vs1DAD9siP_P-15">
+          <mxGeometry y="30" width="700" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sAkDwCk9vs1DAD9siP_P-17" value="1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=1;right=0;overflow=hidden;pointerEvents=1;strokeColor=inherit;fontSize=16;" vertex="1" parent="sAkDwCk9vs1DAD9siP_P-16">
+          <mxGeometry width="156" height="30" as="geometry">
+            <mxRectangle width="156" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sAkDwCk9vs1DAD9siP_P-18" value="Сумма, которую клиент готов заплатить за авто на аукционе" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;" vertex="1" parent="sAkDwCk9vs1DAD9siP_P-16">
+          <mxGeometry x="156" width="544" height="30" as="geometry">
+            <mxRectangle width="544" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sAkDwCk9vs1DAD9siP_P-19" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;" vertex="1" parent="sAkDwCk9vs1DAD9siP_P-15">
+          <mxGeometry y="60" width="700" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sAkDwCk9vs1DAD9siP_P-20" value="2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=1;right=0;overflow=hidden;strokeColor=inherit;fontSize=16;" vertex="1" parent="sAkDwCk9vs1DAD9siP_P-19">
+          <mxGeometry width="156" height="30" as="geometry">
+            <mxRectangle width="156" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sAkDwCk9vs1DAD9siP_P-21" value="Стоимость доставки" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=1;left=0;bottom=1;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;" vertex="1" parent="sAkDwCk9vs1DAD9siP_P-19">
+          <mxGeometry x="156" width="544" height="30" as="geometry">
+            <mxRectangle width="544" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sAkDwCk9vs1DAD9siP_P-22" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;" vertex="1" parent="sAkDwCk9vs1DAD9siP_P-15">
+          <mxGeometry y="90" width="700" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sAkDwCk9vs1DAD9siP_P-23" value="3" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=inherit;fontSize=16;" vertex="1" parent="sAkDwCk9vs1DAD9siP_P-22">
+          <mxGeometry width="156" height="30" as="geometry">
+            <mxRectangle width="156" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sAkDwCk9vs1DAD9siP_P-24" value="Сборы аукциона" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;" vertex="1" parent="sAkDwCk9vs1DAD9siP_P-22">
+          <mxGeometry x="156" width="544" height="30" as="geometry">
+            <mxRectangle width="544" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sAkDwCk9vs1DAD9siP_P-25" value="4" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=1;left=0;bottom=1;right=1;overflow=hidden;strokeColor=inherit;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-500" y="720" width="156" height="30" as="geometry">
+            <mxRectangle width="156" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sAkDwCk9vs1DAD9siP_P-26" value="Страховка" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=1;left=0;bottom=1;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-344" y="720" width="544" height="30" as="geometry">
+            <mxRectangle width="544" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sAkDwCk9vs1DAD9siP_P-27" value="5" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=1;left=0;bottom=1;right=1;overflow=hidden;strokeColor=inherit;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-500" y="750" width="156" height="30" as="geometry">
+            <mxRectangle width="156" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sAkDwCk9vs1DAD9siP_P-28" value="6" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=1;left=0;bottom=1;right=1;overflow=hidden;strokeColor=inherit;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-500" y="780" width="156" height="30" as="geometry">
+            <mxRectangle width="156" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sAkDwCk9vs1DAD9siP_P-29" value="Таможенные платежи" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=1;left=0;bottom=1;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-344" y="750" width="544" height="30" as="geometry">
+            <mxRectangle width="544" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sAkDwCk9vs1DAD9siP_P-30" value="Оплата акциза" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=1;left=0;bottom=1;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-344" y="780" width="544" height="30" as="geometry">
+            <mxRectangle width="544" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sAkDwCk9vs1DAD9siP_P-31" value="ИТОГО" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#FFFFCC;top=1;left=0;bottom=1;right=1;overflow=hidden;strokeColor=inherit;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-500" y="840" width="156" height="30" as="geometry">
+            <mxRectangle width="156" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sAkDwCk9vs1DAD9siP_P-32" value="Итоговая стоимость авто с доставкой и всеми сборами для клиента" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#FFFFCC;top=1;left=0;bottom=1;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="-344" y="840" width="544" height="30" as="geometry">
+            <mxRectangle width="544" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sAkDwCk9vs1DAD9siP_P-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.489;entryY=-0.003;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="sAkDwCk9vs1DAD9siP_P-4" target="sAkDwCk9vs1DAD9siP_P-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sAkDwCk9vs1DAD9siP_P-34" value="Авто на аукционе без доставки (сумма п.1-3)" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;strokeColor=default;fontSize=16;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="600" width="700" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="sAkDwCk9vs1DAD9siP_P-35" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;" vertex="1" parent="sAkDwCk9vs1DAD9siP_P-34">
+          <mxGeometry y="30" width="700" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sAkDwCk9vs1DAD9siP_P-36" value="1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=1;right=0;overflow=hidden;pointerEvents=1;strokeColor=inherit;fontSize=16;" vertex="1" parent="sAkDwCk9vs1DAD9siP_P-35">
+          <mxGeometry width="156" height="30" as="geometry">
+            <mxRectangle width="156" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sAkDwCk9vs1DAD9siP_P-37" value="Сумма, которую клиент готов заплатить за авто на аукционе" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;" vertex="1" parent="sAkDwCk9vs1DAD9siP_P-35">
+          <mxGeometry x="156" width="544" height="30" as="geometry">
+            <mxRectangle width="544" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sAkDwCk9vs1DAD9siP_P-38" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;" vertex="1" parent="sAkDwCk9vs1DAD9siP_P-34">
+          <mxGeometry y="60" width="700" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sAkDwCk9vs1DAD9siP_P-39" value="2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=1;right=0;overflow=hidden;strokeColor=inherit;fontSize=16;" vertex="1" parent="sAkDwCk9vs1DAD9siP_P-38">
+          <mxGeometry width="156" height="30" as="geometry">
+            <mxRectangle width="156" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sAkDwCk9vs1DAD9siP_P-40" value="Стоимость услуги Carsbet" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=1;left=0;bottom=1;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;" vertex="1" parent="sAkDwCk9vs1DAD9siP_P-38">
+          <mxGeometry x="156" width="544" height="30" as="geometry">
+            <mxRectangle width="544" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sAkDwCk9vs1DAD9siP_P-41" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;" vertex="1" parent="sAkDwCk9vs1DAD9siP_P-34">
+          <mxGeometry y="90" width="700" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sAkDwCk9vs1DAD9siP_P-42" value="3" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=1;right=0;overflow=hidden;strokeColor=inherit;fontSize=16;" vertex="1" parent="sAkDwCk9vs1DAD9siP_P-41">
+          <mxGeometry width="156" height="30" as="geometry">
+            <mxRectangle width="156" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sAkDwCk9vs1DAD9siP_P-43" value="Сборы аукциона" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=1;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;" vertex="1" parent="sAkDwCk9vs1DAD9siP_P-41">
+          <mxGeometry x="156" width="544" height="30" as="geometry">
+            <mxRectangle width="544" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sAkDwCk9vs1DAD9siP_P-44" value="Дополнительные оплаты:" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=1;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="570" y="720" width="700" height="30" as="geometry">
+            <mxRectangle width="544" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sAkDwCk9vs1DAD9siP_P-45" value="4" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=1;right=0;overflow=hidden;strokeColor=inherit;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="570" y="750" width="156" height="30" as="geometry">
+            <mxRectangle width="156" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sAkDwCk9vs1DAD9siP_P-46" value="5" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=1;right=0;overflow=hidden;strokeColor=inherit;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="570" y="780" width="156" height="30" as="geometry">
+            <mxRectangle width="156" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sAkDwCk9vs1DAD9siP_P-47" value="6" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=1;right=0;overflow=hidden;strokeColor=inherit;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="570" y="810" width="156" height="30" as="geometry">
+            <mxRectangle width="156" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sAkDwCk9vs1DAD9siP_P-48" value="Стоимость доставки" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=1;left=1;bottom=1;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="726" y="750" width="544" height="30" as="geometry">
+            <mxRectangle width="544" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sAkDwCk9vs1DAD9siP_P-49" value="Страховка" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=1;left=1;bottom=1;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="726" y="780" width="544" height="30" as="geometry">
+            <mxRectangle width="544" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sAkDwCk9vs1DAD9siP_P-50" value="Таможенные платежи" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=1;left=1;bottom=1;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="726" y="810" width="544" height="30" as="geometry">
+            <mxRectangle width="544" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sAkDwCk9vs1DAD9siP_P-51" value="7" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#FFCCCC;top=1;left=0;bottom=1;right=1;overflow=hidden;strokeColor=inherit;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-500" y="810" width="156" height="30" as="geometry">
+            <mxRectangle width="156" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sAkDwCk9vs1DAD9siP_P-52" value="Стоимость услуги Carsbet" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#FFCCCC;top=1;left=0;bottom=1;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-344" y="810" width="544" height="30" as="geometry">
+            <mxRectangle width="544" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sAkDwCk9vs1DAD9siP_P-53" value="7" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=1;right=0;overflow=hidden;strokeColor=inherit;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="570" y="840" width="156" height="30" as="geometry">
+            <mxRectangle width="156" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sAkDwCk9vs1DAD9siP_P-54" value="Оплата акциза" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=1;left=1;bottom=1;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="726" y="840" width="544" height="30" as="geometry">
+            <mxRectangle width="544" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sAkDwCk9vs1DAD9siP_P-55" value="ИТОГО" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#FFFFCC;top=1;left=0;bottom=1;right=1;overflow=hidden;strokeColor=inherit;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="570" y="870" width="156" height="30" as="geometry">
+            <mxRectangle width="156" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sAkDwCk9vs1DAD9siP_P-56" value="Итоговая стоимость авто с доставкой и всеми сборами для клиента" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#FFFFCC;top=1;left=0;bottom=1;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="726" y="870" width="544" height="30" as="geometry">
+            <mxRectangle width="544" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sAkDwCk9vs1DAD9siP_P-57" value="Доставка" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fillColor=#eeeeee;strokeColor=#999999;gradientColor=#cccccc;align=left;spacingLeft=4;fontSize=17;fontColor=#666666;labelPosition=right;noLabel=0;snapToPoint=0;dropTarget=0;metaEdit=1;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="215" y="400" width="15" height="15" as="geometry" />
+        </mxCell>
+        <object label="Страховка" id="sAkDwCk9vs1DAD9siP_P-58">
+          <mxCell style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fillColor=#eeeeee;strokeColor=#999999;gradientColor=#cccccc;align=left;spacingLeft=4;fontSize=17;fontColor=#666666;labelPosition=right;noLabel=0;snapToPoint=0;dropTarget=0;metaEdit=1;direction=north;" vertex="1" parent="1">
+            <mxGeometry x="330" y="400" width="15" height="15" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="Акциз" id="sAkDwCk9vs1DAD9siP_P-60">
+          <mxCell style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fillColor=#eeeeee;strokeColor=#999999;gradientColor=#cccccc;align=left;spacingLeft=4;fontSize=17;fontColor=#666666;labelPosition=right;noLabel=0;snapToPoint=0;dropTarget=0;metaEdit=1;direction=north;" vertex="1" parent="1">
+            <mxGeometry x="450" y="400" width="15" height="15" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="Таможенные платежи" id="sAkDwCk9vs1DAD9siP_P-61">
+          <mxCell style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fillColor=#eeeeee;strokeColor=#999999;gradientColor=#cccccc;align=left;spacingLeft=4;fontSize=17;fontColor=#666666;labelPosition=right;noLabel=0;snapToPoint=0;dropTarget=0;metaEdit=1;direction=east;" vertex="1" parent="1">
+            <mxGeometry x="215" y="440" width="15" height="15" as="geometry" />
+          </mxCell>
+        </object>
       </root>
     </mxGraphModel>
   </diagram>
